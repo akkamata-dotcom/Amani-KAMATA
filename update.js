@@ -44,7 +44,7 @@ document
 
         const { data, error } =
         await client
-        .from("Bus Company registration")
+        .from("amani")
         .insert([
             {
                 username: username,
